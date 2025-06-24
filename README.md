@@ -1,1 +1,1 @@
-# Industrial_trainning
+# Industrial_training
